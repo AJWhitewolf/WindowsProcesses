@@ -1,0 +1,9 @@
+c:\users\adunigan\documents\visual studio 2013\Projects\WindowsProcesses\WindowsProcesses\bin\Debug\WindowsProcesses.exe
+c:\users\adunigan\documents\visual studio 2013\Projects\WindowsProcesses\WindowsProcesses\bin\Debug\WindowsProcesses.pdb
+c:\users\adunigan\documents\visual studio 2013\Projects\WindowsProcesses\WindowsProcesses\obj\Debug\WindowsProcesses.exe
+c:\users\adunigan\documents\visual studio 2013\Projects\WindowsProcesses\WindowsProcesses\obj\Debug\WindowsProcesses.pdb
+c:\Users\ADunigan\Documents\Visual Studio 2013\Projects\WindowsProcesses\WindowsProcesses\obj\Debug\WindowsProcesses.csprojResolveAssemblyReference.cache
+c:\Users\ADunigan\Documents\Visual Studio 2013\Projects\WindowsProcesses\WindowsProcesses\bin\Debug\WindowsProcesses.exe.manifest
+c:\Users\ADunigan\Documents\Visual Studio 2013\Projects\WindowsProcesses\WindowsProcesses\bin\Debug\WindowsProcesses.application
+c:\Users\ADunigan\Documents\Visual Studio 2013\Projects\WindowsProcesses\WindowsProcesses\obj\Debug\WindowsProcesses.exe.manifest
+c:\Users\ADunigan\Documents\Visual Studio 2013\Projects\WindowsProcesses\WindowsProcesses\obj\Debug\WindowsProcesses.application
