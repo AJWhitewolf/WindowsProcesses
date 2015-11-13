@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WindowsProcesses.exe" size="7168">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WindowsProcesses.exe" size="8704">
       <assemblyIdentity name="WindowsProcesses" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>crPmofZY7VUlLlssTzREfxDwTq4=</dsig:DigestValue>
+        <dsig:DigestValue>OHT/cxkFSFo4lwXUDFSWiqmP+e4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
