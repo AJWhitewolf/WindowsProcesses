@@ -18,7 +18,7 @@ namespace WindowsProcesses
             Console.Write("  [#]: Process Name");
             Console.SetCursorPosition(40, Console.CursorTop);
             Console.Write("Memory Usage" + Environment.NewLine);
-            Console.WriteLine("-----------------------------------------------------------------------------");
+            Console.WriteLine("================================================================================");
         }
 
         static void displayResults(List<Process> pList)
